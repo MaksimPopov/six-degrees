@@ -2,7 +2,10 @@
 
 ## What it does?
 
-This bot uses whosampled.com to find connections between different musicians
+This bot uses whosampled.com to find connections between different musicians.
+For example:
+
+![](https://i.ibb.co/74h9Njc/Screenshot-from-2020-03-06-17-46-16.png)
 
 ## How to use it?
 
