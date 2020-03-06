@@ -2,7 +2,7 @@
 
 ## What it does?
 
-It takes WhoSampled application and parses it
+This bot uses whosampled.com to find connections between different musicians
 
 ## How to use it?
 
